@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+img {
+    border-bottom: 3px solid lightgreen;
+    padding: 2px;
+    height: 400px;
+    margin-bottom: 10px;
+}
